@@ -9,9 +9,6 @@ app.config.from_object(configs)
 
 socketio = SocketIO(app)
 
-TOPIC_NAME = 'items'
-KAFKA_SERVER = 'localhost:9092'
-
 
 @app.route('/')
 def index():
