@@ -32,5 +32,5 @@ $ flask run
 
 ##  Demo
 
-![](D:\Test project\BE\test-chat-room\test.gif)
+![](test.gif)
 
