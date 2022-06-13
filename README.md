@@ -32,5 +32,10 @@ $ flask run
 
 ##  Demo
 
-![](D:\Test project\BE\test-chat-room\test.gif)
+![](test.gif)
 
+
+
+##  References
+
+* [Flask-SocketIO](https://ithelp.ithome.com.tw/articles/10269552)
